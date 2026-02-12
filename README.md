@@ -174,5 +174,30 @@ Les contributions sont les bienvenues !
 
 ---
 
+## 🤝 Contributeurs
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/merouan-dev.png" width="80" style="border-radius:50%;"><br>
+      <strong>Merouan</strong><br>
+      <a href="https://github.com/merouan-dev">Merouan Errachidi</a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/ayoubaguezar.png" width="80" style="border-radius:50%;"><br>
+      <strong>Ayoub Aguezar</strong><br>
+      <a href="https://github.com/ayoubaguezar">@ayoubaguezar</a>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+---
+
 ## 📄 Licence
 Ce projet est sous licence MIT.
