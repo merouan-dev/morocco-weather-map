@@ -75,7 +75,7 @@ Une application web moderne et interactive offrant des prévisions météorologi
 - **Lucide React** - Icônes vectorielles
 
 ### APIs
-- **Open-Meteo API** - Données météo (Open Source)
+- **Open Meteo API** - Données météo (Open Source)
 
 ---
 
